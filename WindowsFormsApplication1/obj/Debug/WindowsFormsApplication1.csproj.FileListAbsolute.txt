@@ -1,0 +1,29 @@
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LOGIN.resources
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MENU.resources
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddMember.resources
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Member.resources
+D:\My Data\Project\Software\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddMember.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddProduct.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Authority.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Delivery.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Exit.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Member.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb

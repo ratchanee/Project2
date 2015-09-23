@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E33048ED-1524-4D81-83C8-0A82FCCD69D2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Stock</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office12\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Interface\Master\frmDealerProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Master\frmDealerProduct.Designer.cs">
+      <DependentUpon>frmDealerProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmOrder.Designer.cs">
+      <DependentUpon>frmOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Permission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Permission.Designer.cs">
+      <DependentUpon>Permission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\clsGlobal.cs" />
+    <Compile Include="Class\clsMSQUERY.cs" />
+    <Compile Include="Class\clsDELETE.cs" />
+    <Compile Include="Class\clsINSERT.cs" />
+    <Compile Include="Class\clsSELECT.cs" />
+    <Compile Include="Class\clsUPDATE.cs" />
+    <Compile Include="Interface\Delivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Delivery.Designer.cs">
+      <DependentUpon>Delivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Exit.Designer.cs">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmMAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmMAIN.Designer.cs">
+      <DependentUpon>frmMAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Master\frmMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Master\frmMember.Designer.cs">
+      <DependentUpon>frmMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Master\frmMemberAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Master\frmMemberAdd.Designer.cs">
+      <DependentUpon>frmMemberAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Master\frmProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Master\frmProduct.Designer.cs">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Master\frmProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Master\frmProductAdd.Designer.cs">
+      <DependentUpon>frmProductAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Master\frmDealer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Master\frmDealer.Designer.cs">
+      <DependentUpon>frmDealer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Master\frmDealerAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Master\frmDealerAdd.Designer.cs">
+      <DependentUpon>frmDealerAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parameter\clsMember.cs" />
+    <Compile Include="Parameter\clsPRODUCT.cs" />
+    <Compile Include="Parameter\clsUSER.cs" />
+    <Compile Include="Parameter\clsDEALER.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Interface\Master\frmDealerProduct.resx">
+      <DependentUpon>frmDealerProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmOrder.resx">
+      <DependentUpon>frmOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Permission.resx">
+      <DependentUpon>Permission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Delivery.resx">
+      <DependentUpon>Delivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Exit.resx">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmMAIN.resx">
+      <DependentUpon>frmMAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Master\frmDealer.resx">
+      <DependentUpon>frmDealer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Master\frmDealerAdd.resx">
+      <DependentUpon>frmDealerAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Master\frmMember.resx">
+      <DependentUpon>frmMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Master\frmMemberAdd.resx">
+      <DependentUpon>frmMemberAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Master\frmProduct.resx">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Master\frmProductAdd.resx">
+      <DependentUpon>frmProductAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="STOREDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>STOREDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Designcontest-Ecommerce-Business-Store.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oxygen-Icons.org-Oxygen-Actions-window-close.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hamzasaleem-Stock-Folder-Folder-Downloads.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icojam-Blue-Bits-User-delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icojam-Blue-Bits-User-settings.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icojam-Blue-Bits-User-add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Double-J-Design-Ravenna-3d-Settings.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icojam-Blue-Bits-User-search.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\members.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apathae-Chakram-2-Folder-Download.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\Everaldo-Kids-Icons-View-text.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zerode-Plump-Search.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Flatastic-4-Add-item.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hopstarter-Soft-Scraps-Edit-Document.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hopstarter-Soft-Scraps-File-Delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Everaldo-Kids-Icons-View-text1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hopstarter-Mac-Folders-Blue-Download.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apathae-Chakram-2-Folder-Download1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aha-Soft-Universal-Shop-Print.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Flatastic-4-Add-item1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oxygen-Icons.org-Oxygen-Apps-system-software-update.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-9-Delete-file.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hopstarter-Sleek-Xp-Basic-Zoom.ico" />
+    <None Include="STOREDataSet.xsc">
+      <DependentUpon>STOREDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="STOREDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>STOREDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="STOREDataSet.xss">
+      <DependentUpon>STOREDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icojam-Blue-Bits-User-settings1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Designcontest-Ecommerce-Business-Store1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aha-Soft-Universal-Shop-Print1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,113 @@
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Delivery.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Exit.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Login.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\STOCK.csproj.GenerateResource.Cache
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmMember.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmMemberAdd.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmProduct.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmProductAdd.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmDealer.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmDealerAdd.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmMAIN.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Permission.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmOrder.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\obj\Debug\Stock.frmDealerProduct.resources
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\office.dll
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\jchaiwat\Documents\Visual Studio 2008\Projects\MENU\WindowsFormsApplication1\bin\Debug\office.xml
+E:\Backup\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Backup\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Backup\MENU\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\STOCK.csprojResolveAssemblyReference.cache
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.frmDealerProduct.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmOrder.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Permission.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Delivery.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Exit.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmMAIN.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmDealer.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmDealerAdd.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmMember.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmMemberAdd.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmProduct.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmProductAdd.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Login.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\Stock.Properties.Resources.resources
+E:\Backup\MENU\WindowsFormsApplication1\obj\Debug\STOCK.csproj.GenerateResource.Cache
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\bin\Debug\office.dll
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\bin\Debug\office.xml
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\STOCK.csprojResolveAssemblyReference.cache
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.frmDealerProduct.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmOrder.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Permission.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Delivery.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Exit.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmMAIN.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmDealer.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmDealerAdd.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmMember.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmMemberAdd.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmProduct.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmProductAdd.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Login.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Miw-\Desktop\STORE\WindowsFormsApplication1\obj\Debug\STOCK.csproj.GenerateResource.Cache
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\bin\Debug\office.dll
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\bin\Debug\office.xml
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\STOCK.csprojResolveAssemblyReference.cache
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.frmDealerProduct.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmMAIN.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmDealer.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmDealerAdd.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmMember.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmMemberAdd.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmProduct.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.Master.frmProductAdd.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Login.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\STOCK.csproj.GenerateResource.Cache
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.frmDelivery.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmDetailOrder.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmViewOrder.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmViewDelivery.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmStock.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmNote.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmSettingPrice.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmStPrice.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmDeriveryV.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmDetailDerivery.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmMenuDerivery.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmMenuOrder.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.frmExit.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmSale.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Class.frmMenuExit.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmDetailExit.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmViewExit.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmDeler.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmDetailSale.resources
+C:\Users\Miw-\Desktop\New folder\STORE25082558\WindowsFormsApplication1\obj\Debug\Stock.Interface.frmViewSale.resources
